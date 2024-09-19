@@ -1,3 +1,8 @@
+// Create a class 'Student' with three data members which are name, age and address. The constructor of the class assigns default values to name as "unknown", age as '0' and address as "not available". It has two functions with the same name 'setInfo'. First function has two parameters for name and age and assigns the same whereas the second function takes has three parameters which are assigned to name, age and address respectively. Print the name, age and address of 10 students.
+//  Use array of objects
+
+// Name:Pradipkumar Mane
+// ROLL_NO:36
 #include<iostream>
 using namespace std;
 class Student
